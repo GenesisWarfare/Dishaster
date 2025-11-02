@@ -21,11 +21,8 @@ Mixing time management, stealth, and comedy, Dishaster turns catering into pure 
 
 
 ## 🕹️ Quick Facts
-- **Genre:** Management / Stealth Comedy  
-- **Platform:** PC & Mobile  
-- **Core Loop:** Serve → Fake Work → Avoid Boss → Collect Tips  
-- **Goal:** Survive your shift and earn the most tips!  
+Soon...
 
 ---
 
-> “Dishaster turns everyday chaos into laughter — it’s Overcooked meets stealth comedy!” 🎉
+> “Dishaster turns everyday chaos into laughter” 🎉
