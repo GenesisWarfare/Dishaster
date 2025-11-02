@@ -214,6 +214,7 @@ The game is non-zero-sum and focuses on replayability — every round is differe
 
 ### 1.The Waitress
 
+We search with "waiter games" in google
 https://www.crazygames.com/game/the-waitress
 <img width="1097" height="588" alt="image" src="https://github.com/user-attachments/assets/37dd28e2-28cb-4a8e-91d8-b077660978cf" />
 <img width="1109" height="578" alt="image" src="https://github.com/user-attachments/assets/d26da4dc-77b7-4a57-adab-8983a8d8602a" />
@@ -247,4 +248,83 @@ The internal dilemma between “be professional” and “have fun” makes each
 Outcomes:
 Multiple funny endings (“Perfect Shift,” “Fired for Dancing,” etc.) increase replayability and comedic payoff.
 
---- 
+---
+
+### 2.PlateUp!
+
+We search with "waiter games" in google
+https://store.steampowered.com/app/1599600/PlateUp/
+<img width="888" height="501" alt="image" src="https://github.com/user-attachments/assets/17ae37ea-6090-4f54-bd44-c6a983ab575c" />
+<img width="905" height="452" alt="image" src="https://github.com/user-attachments/assets/b94c248e-0cd7-481c-83b0-75432ef6a1cd" />
+
+### 💡 Why Dishaster is Unique & Better
+
+While PlateUp! relies on precision and teamwork, it lacks a strong comedic or narrative hook. The chaos is external — coming from multiple players trying to multitask.
+
+Dishaster turns that chaos internal: it’s about the player’s own decisions — whether to be a model waiter or a mischievous one.
+Every round feels like a mini-story, full of absurd but relatable moments (drunk guests, annoying DJs, the scary boss).
+
+Key originality points:
+
+Single-player focus: easy to play casually without needing a team.
+
+Stealth + Humor hybrid: pretending to work or sneaking a drink makes tension funny, not stressful.
+
+Party atmosphere: bright, musical, and full of random, funny events rather than pure restaurant stress.
+
+Character progression: tips used for upgrades add light RPG elements missing from PlateUp!.
+
+Why players will prefer Dishaster:
+Because it’s less about efficiency and more about comedic survival. Instead of stressful teamwork, it offers a chill, narrative-driven chaos — something between Overcooked and The Sims: Party Edition.
+
+### ⭐ Formal Elements that Highlight Originality
+
+Processes:
+Dishaster’s “fake work” and “boss avoidance” loops replace repetitive serving with creative improvisation.
+
+Conflicts:
+The player constantly balances professionalism vs. temptation — a fun and relatable inner conflict.
+
+Tone & Outcomes:
+Humor, lighthearted storytelling, and funny endings (“Fired for Dancing with Guests!”) make failure entertaining and replayable.
+
+---
+
+## 3.Overcooked
+
+I knew this game
+https://store.steampowered.com/app/448510/Overcooked/
+<img width="888" height="448" alt="image" src="https://github.com/user-attachments/assets/cc36105c-fd3c-4f9a-8606-38ac5238f724" />
+<img width="880" height="444" alt="image" src="https://github.com/user-attachments/assets/38b70073-15d9-4bb1-a17e-26e3a47a9a3b" />
+
+### 💡 Why Dishaster is Unique & Better
+
+While Overcooked! is fun, it’s heavily dependent on teamwork, and playing alone is far less satisfying.
+Dishaster, on the other hand, is built to be funny, immersive, and enjoyable solo, without losing that sense of lively chaos.
+
+Key differences and strengths:
+
+Humor-driven gameplay: Dishaster adds stealth comedy — pretending to polish glasses, faking tasks, or drinking with guests behind the boss’s back.
+
+Dynamic environments: Each event feels different (weddings, corporate galas, bar mitzvahs), with unique layouts, music, and random events (like the DJ spilling champagne).
+
+Playable narrative: Instead of just cooking, you live the chaos — the pressure comes from human interactions and absurd social situations.
+
+Accessible fun: No need for coordination or voice chat — just jump in, laugh, and survive the shift.
+
+Why players will prefer Dishaster:
+Because it captures the same energy as Overcooked! — but channels it into humor, personality, and replayable unpredictability rather than teamwork stress. It’s the party chaos experience for solo players who still want to laugh and sweat a little.
+
+### ⭐ Formal Elements that Highlight Originality
+
+Processes:
+Dishaster replaces repetitive cooking tasks with reactive, funny mini-actions — “fake working” or improvising under pressure.
+
+Conflicts:
+The stealth mechanic (avoid the boss) adds depth missing from pure action games.
+
+Tone & Atmosphere:
+Instead of frantic shouting between teammates, Dishaster builds a cinematic chaos with music, dancing guests, and social comedy.
+
+Outcomes:
+Funny failure states (“Fired for spilling champagne on the bride!”) make every game memorable, not just about points.
