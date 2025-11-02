@@ -328,3 +328,7 @@ Instead of frantic shouting between teammates, Dishaster builds a cinematic chao
 
 Outcomes:
 Funny failure states (“Fired for spilling champagne on the bride!”) make every game memorable, not just about points.
+
+---
+
+*Some parts of this README (structure & layout) were assisted by ChatGPT.*
