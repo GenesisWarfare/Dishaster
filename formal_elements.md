@@ -9,6 +9,11 @@ Dishaster is a fast-paced, humorous management and stealth game where you play a
 Platform:
 The game is designed for PC and mobile (Android/iOS), making it perfect for both short casual sessions and longer gameplay experiences.
 
+This a screen drawing like we imagine the game (sorry for the drawing talent 😅
+
+![Uploading image.png…]()
+
+
 ---
 
 
