@@ -1,6 +1,6 @@
 
 
-# Dishaster
+# 🍽️ Dishaster
 **Welcome to Dishaster — the only job where spilling drinks, dodging the boss, and flirting for tips are part of the shift!**
 
 ## Concept:
