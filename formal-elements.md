@@ -138,8 +138,11 @@ Guidance: Light and color cues subtly guide the player toward active tables.
 ### 8. Outcomes
 
 Possible endings for each shift:
+
 🏆 Perfect Shift: High tips, zero mistakes → unlocks next level and new gear.
+
 😊 Good Enough: Some chaos, but overall success → small reward.
+
 💀 FIRED: Caught drinking with guests, tripping the bride, or setting off the champagne tower.
 
 Success depends 80% on skill, 20% on luck — the Boss’s patrol and guest chaos are semi-random.
