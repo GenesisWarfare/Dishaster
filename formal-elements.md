@@ -44,7 +44,7 @@ Start Phase (first 30 seconds)
 The game starts with the player entering the banquet hall.
 A short cutscene shows the Boss shouting orders and guests already getting rowdy.
 The tutorial appears naturally:
-👉 “Serve guests. Avoid the boss. Don’t get caught slacking!”
+- “Serve guests. Avoid the boss. Don’t get caught slacking!”
 One table flashes to indicate where to go first — fast onboarding, instant fun.
 
 Core Loop
@@ -53,10 +53,10 @@ Observe: Look for waving guests or tables flashing yellow (they need service).
 Move: Navigate between tables while dodging dancers and staying out of the Boss’s light cone.
 Serve: Tap or click to deliver dishes. Perfect timing = higher tips.
 Fake work: When the Boss is nearby, hold a button to pretend to:
-Polish glasses 🍷
-Rearrange cutlery 🍴
-Wipe a clean table 🧽
-Write fake notes on a notepad 🗒️
+Polish glasses,
+Rearrange cutler,
+Wipe a clean table,
+Write fake notes on a notepad
 
 Collect tips: Coins and bills appear briefly on tables; grab them before they vanish!
 Risk actions: Optional “fun” interactions increase humor and tension:
@@ -68,10 +68,10 @@ End Phase
 
 The shift ends after a set timer or if the Boss fires you on the spot.
 You’re immediately graded on:
-Tips earned 💰
-Guests served ✅
-Times caught 🚫
-Professionalism score 🌟
+Tips earned,
+Guests served,
+Times caught,
+Professionalism score
 
 Ending screens:
 
@@ -95,10 +95,10 @@ Rules are learned naturally as players fail or succeed — “comedic failure”
 
 ### 5.Resources
 
-Tips 💵 – Used to buy upgrades (better shoes, larger tray, charisma perfume).
-Reputation ⭐ – Impacts how forgiving the Boss and guests are.
-Time ⏱️ – Each round has a strict timer; every second counts.
-Energy ⚡ – Drains if running or faking tasks too much; refilled by taking micro-breaks (or… sneaking dessert).
+Tips – Used to buy upgrades (better shoes, larger tray, charisma perfume).
+Reputation – Impacts how forgiving the Boss and guests are.
+Time – Each round has a strict timer; every second counts.
+Energy – Drains if running or faking tasks too much; refilled by taking micro-breaks (or… sneaking dessert).
 
 Scarcity is built into the system:
 Guests lose patience fast.
