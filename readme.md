@@ -19,10 +19,4 @@ Mixing time management, stealth, and comedy, Dishaster turns catering into pure 
 
 ---
 
-
-## 🕹️ Quick Facts
-Soon...
-
----
-
 > “Dishaster turns everyday chaos into laughter” 🎉
