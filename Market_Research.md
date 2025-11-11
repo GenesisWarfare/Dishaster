@@ -169,4 +169,37 @@ Engagement efforts will target communities such as **Reddit (r/gaming, r/indiega
 Encouraging user-generated content (memes, funny clips) will further strengthen organic visibility.
 
 
+## 7. Live Events (LiveOps)  
+
+A consistent **LiveOps strategy** is essential to maintain long-term engagement, replayability, and revenue for both platforms — **Mobile (F2P)** and **PC (Premium + DLC)**.  
+For Dishaster, live events should build on the game’s **core “Chaos-Stealth Comedy” identity**, providing fresh, time-limited scenarios that expand the humor and tension without requiring full content expansions.
+
+---
+
+### Example LiveOps Calendar: “The Week of Shame”
+
+| **Event Name** | **Frequency** | **Duration** | **Core Mechanic Twist** | **Reward / Incentive** |
+|----------------|----------------|---------------|--------------------------|--------------------------|
+| **The Corporate Gala** | Bi-weekly | 5 Days | New Venue – *Office Tower*: complex patrol routes with elevators and cubicles; guests are formal, requiring higher Charisma checks. | Limited-time Cosmetic: *“Executive Tuxedo”* outfit and animated tray skin. |
+| **Night of the Drunkards** | Monthly | 3 Days | Chaos Boost – increased spillage rate, faster energy drain, higher risk of instant firing if caught drinking. | Permanent Meta-Upgrade: *“Ironskin Stomach”* (reduces penalties from risky actions). |
+| **Boss’s Birthday** | Quarterly | 7 Days | Stealth Challenge – the Boss is more forgiving if “Favor” tasks are completed, but patrol speed is doubled. | Event Currency: can be exchanged for exclusive lobby decorations and cosmetics. |
+
+---
+
+### How LiveOps Drives Player Engagement  
+
+**1. Retention and Recurrence**  
+Limited-time events create **daily return incentives**, preventing fatigue and keeping gameplay dynamic. Players are motivated by exclusive content and short-term goals.
+
+**2. Monetization Levers**  
+Temporary scarcity encourages players to spend **in-game Tips** or **real money (IAP)** for faster progression or to obtain exclusive items before events end.
+
+**3. Content Refresh**  
+Live events offer **fresh variations** on existing maps and rules, extending the game’s life cycle without the need for large-scale updates or new DLC.  
+Each event subtly modifies mechanics (e.g., chaos intensity, stealth conditions), keeping the core loop engaging.
+
+**4. Community and Social Impact**  
+Time-limited leaderboards and global rankings encourage **friendly competition**.  
+Event-specific clips and achievements are **highly shareable**, boosting organic visibility and community involvement across social platforms.
+
 
