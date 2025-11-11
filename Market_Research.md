@@ -27,7 +27,7 @@ Opportunity: Dishaster is positioned to capitalize on the desire for chaotic gam
 The Israeli audience is a rapid adopter of global mobile gaming trends. Should the game incorporate local cultural humor or settings (e.g., specific event types or recognizable character archetypes), it could generate local virality and foster a strong, immediate connection with the domestic audience.
 **Part of:** Game Development Course – Market Research Assignment  
 
-## 2. Target Audience 🎯  
+## 2. Target Audience
 
 The target audience for **Dishaster** falls within the **Mid-Core Casual** segment — players drawn to accessible chaos, humor, and skill-based time-management challenges with replay value.
 
@@ -49,7 +49,7 @@ Israel has a strong mobile-gaming culture and an appreciation for **self-aware, 
 Localized cultural touches (e.g., chaotic wedding events or bar mitzvah scenes) could enhance **virality and audience resonance** in the regional market.
 
 
-## 3. Competitor Analysis ⚔️  
+## 3. Competitor Analysis
 
 This section compares **three key competitors** in the *Time Management Chaos* and *Simulation/Stealth* genres to identify market gaps that **Dishaster** can exploit through its blend of humor, stealth, and reactive gameplay.
 
@@ -61,7 +61,7 @@ This section compares **three key competitors** in the *Time Management Chaos* a
 
 ---
 
-### 🔑 Key Learnings for Dishaster
+### Key Learnings for Dishaster
 
 - **Exploit the Solo Niche**  
   Competing titles focus heavily on co-op; there’s a strong opportunity for a *chaotic single-player* experience with humor and replayability.  
@@ -73,11 +73,11 @@ This section compares **three key competitors** in the *Time Management Chaos* a
   Inspired by *PlateUp!*, Dishaster should integrate *persistent upgrades* (faster movement, tray capacity, charisma boosts) to sustain engagement and support monetization.
 
 
-## 4. Unique Selling Proposition (USP) ⭐  
+## 4. Unique Selling Proposition (USP) 
 
 The primary competitive advantage of **Dishaster** lies in its **fusion of structured time-management gameplay and unscripted comedic chaos** — delivering a rare **solo-player “chaos-stealth comedy” experience**.
 
-### 🧩 Core USP
+### Core USP
 **“Chaos-Stealth Comedy: Survive the Shift without Losing Your Mind (or Your Job).”**
 
 | **USP Element** | **Competitive Advantage** | **Connection to Target Audience Needs** |
@@ -89,10 +89,56 @@ The primary competitive advantage of **Dishaster** lies in its **fusion of struc
 
 ---
 
-### ✨ Summary
+### Summary
 **Dishaster** positions itself as the **ultimate single-player social chaos simulator** — blending humor, stealth, and improvisation to transform a mundane catering job into a **high-stakes, hilarious survival challenge.**
 
 
+## 5. Business Model and Monetization  
+
+**Dishaster** will implement a dual monetization strategy to align with player expectations across both **mobile** and **PC** platforms — combining high accessibility with premium perceived value.
+
+---
+
+### Recommended Model: Dual Strategy  
+
+| **Platform** | **Recommended Model** | **Primary Revenue Drivers** |
+|---------------|------------------------|------------------------------|
+| **Mobile (iOS / Android)** | Free-to-Play (F2P) + In-App Purchases (IAP) + Rewarded Ads | - **IAP (Tips / Currency):** Players can buy tips to accelerate upgrades or unlock cosmetics.<br> - **Rewarded Ads:** Watch optional ads for temporary boosts or second chances after being “fired.” |
+| **PC (Steam)** | Premium (Upfront Purchase) + DLC / Cosmetics | - **Upfront Price:** $9.99–$14.99 per copy.<br> - **DLC Packs:** Add new venues, themes, or seasonal events (e.g., “The Cruise Ship Gala”). |
+
+---
+
+### Rationale and Justification  
+
+#### 1. Mobile: F2P + IAP — High Volume & Market Fit
+- **Market Fit:** F2P is the industry standard in the time management and mid-core casual genre (e.g., *Good Pizza, Great Pizza*).  
+  This approach maximizes downloads and ensures instant accessibility for casual players.  
+- **Monetization Levers:**  
+  - **Cosmetics (Skins):** Waiter outfits, tray designs, and dance animations — purely aesthetic.  
+  - **Time / Energy Boosts:** “Charisma Potion” or “Speed Shoes” — temporary buffs to reduce grind.  
+  - **Rewarded Ads:** Optional; grant extra tips, lower the Boss Alert level, or undo a firing.  
+
+#### 2. PC: Premium + DLC — Quality & Long-Term Expansion
+- **Market Fit:** Steam audiences for games like *Overcooked!* and *PlateUp!* expect a complete, premium experience without intrusive ads.  
+  This maintains the game’s quality perception and player trust.  
+- **Expansion Potential:**  
+  The banquet theme is ideal for episodic DLC — new venues, NPCs, and seasonal themes that sustain engagement and provide long-term revenue.
+
+---
+
+### Learning from Competitors  
+
+- **Progression-Based Spending:**  
+  Use **Tips** as hard currency for meta-game upgrades (speed, charisma, endurance). Encourages IAP for faster character advancement.  
+- **Cosmetic Economy:**  
+  Visual customization (outfits, trays, emotes) is a proven, low-friction monetization model in mid-core casual games.
+
+---
+
+### Summary  
+**Mobile:** F2P ensures reach and retention through IAPs and optional ads.  
+**PC:** Premium pricing preserves value and supports post-launch DLC.  
+Together, these models form a hybrid ecosystem balancing accessibility, quality, and long-term sustainability.
 
 
 
