@@ -15,7 +15,7 @@ Mixing time management, stealth, and comedy, Dishaster turns catering into pure 
 
 ## 📜 Project Files
 - [Formal Elements Document](https://github.com/GenesisWarfare/Dishaster/blob/main/formal-elements.md)
-- [Market Research Document](https://github.com/GenesisWarfare/Dishaster/blob/main/formal-elements.md)
+- [Market Research Document](https://github.com/GenesisWarfare/Dishaster/blob/main/Market_Research.md)
 
 ---
 
