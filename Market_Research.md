@@ -8,7 +8,7 @@ The game Dishaster is strategically positioned at the confluence of several high
 Mobile Gaming Market (Global):
 
 ### Scale:
-The mobile segment dominates the gaming industry, boasting annual global revenues exceeding [US$126.06bn in 2025 -Statista].
+The mobile segment dominates the gaming industry, boasting annual global revenues exceeding (US$126.06bn in 2025 -Statista).
 
 ### Genre Status:
 Time Management, Cooking, and Casual Simulation titles enjoy immense popularity on mobile, typically utilizing the Free-to-Play (F2P) model.
