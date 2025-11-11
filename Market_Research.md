@@ -141,6 +141,32 @@ The primary competitive advantage of **Dishaster** lies in its **fusion of struc
 Together, these models form a hybrid ecosystem balancing accessibility, quality, and long-term sustainability.
 
 
+## 6. Marketing and Distribution Strategy  
+
+The **distribution strategy** for Dishaster is **digital-only**, focusing on two primary platforms: **PC (Steam)** and **Mobile (App Store / Google Play)**.  
+The **marketing strategy** emphasizes **organic and low-cost viral growth**, leveraging the game’s humor, visual chaos, and naturally shareable moments.
+
+---
+
+### Key Strategy Points  
+
+**1. Viral Marketing and Influencer Focus (Primary Driver)**  
+The visual chaos, “Boss Alert” tension, and comedic failure states make Dishaster highly **streamer-friendly**.  
+The campaign will target **comedy gaming YouTubers** and **TikTok creators**, using short-form humorous clips and gameplay reactions to generate organic reach.  
+This strategy minimizes **User Acquisition (UA)** costs by relying on **earned virality** rather than paid ads.
+
+**2. PC Launch Focus (Steam Next Fest)**  
+The PC version will launch with a **high-quality playable demo**, participating in **Steam Next Fest** and similar visibility events.  
+This ensures strong **wishlist generation** and exposure during peak discovery periods, crucial for an indie premium release.
+
+**3. App Store Optimization (ASO) and Ad Creatives (Mobile)**  
+For mobile, success depends on **strong ASO** (keywords, title, icon, screenshots) and **effective ad creatives**.  
+Ads will highlight the unique mechanics — *Fake Work* and *Boss Avoidance* — within the first seconds to maximize click-through rates and installs.
+
+**4. Community Engagement**  
+Dishaster’s humor is inherently relatable to anyone who has worked in service or hospitality.  
+Engagement efforts will target communities such as **Reddit (r/gaming, r/indiegames, r/steam)** and **social media groups** focused on workplace humor and casual gaming.  
+Encouraging user-generated content (memes, funny clips) will further strengthen organic visibility.
 
 
 
