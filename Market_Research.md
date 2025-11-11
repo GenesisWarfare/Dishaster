@@ -70,4 +70,31 @@ This section compares **three key competitors** in the *Time Management Chaos* a
   The blend of *boss avoidance* and *fake work mechanics* is unique — this should be the **core marketing hook** absent from major competitors.  
 
 - **Adopt Smart Meta-Progression**  
-  Inspired by *PlateUp!*, Dishaster should integrate *persistent upgrades* (faster movement, tray capacity, charisma boosts) to sustain engagement and support monetization.  
+  Inspired by *PlateUp!*, Dishaster should integrate *persistent upgrades* (faster movement, tray capacity, charisma boosts) to sustain engagement and support monetization.
+
+
+## 4. Unique Selling Proposition (USP) ⭐  
+
+The primary competitive advantage of **Dishaster** lies in its **fusion of structured time-management gameplay and unscripted comedic chaos** — delivering a rare **solo-player “chaos-stealth comedy” experience**.
+
+### 🧩 Core USP
+**“Chaos-Stealth Comedy: Survive the Shift without Losing Your Mind (or Your Job).”**
+
+| **USP Element** | **Competitive Advantage** | **Connection to Target Audience Needs** |
+|------------------|----------------------------|------------------------------------------|
+| **1. The “Fake Work” Mechanic (Novelty)** | Entirely absent from competitors — while *Overcooked!* focuses on teamwork and *PlateUp!* on efficiency, Dishaster makes *pretending to work* a central mechanic. It turns hiding from the boss into an *active, high-tension mini-game.* | Fulfills the audience’s need for **Novelty** and **Comedic Release** through irony and relatability — everyone’s “faked work” at some point. |
+| **2. Solo-Player Chaos** | Recreates the frantic, party-style energy of co-op games but designed entirely for solo play — *your shift, your story.* | Appeals to **Casual/Mid-Core** players seeking **accessible, fast fun** without the stress of coordination or online teams. |
+| **3. Risk–Reward Comedy Loop** | Introduces internal conflict: *Should I sneak a drink or stay professional?* Each decision creates tension, laughter, and unexpected outcomes. | Satisfies the need for **Humor & Storytelling**, generating **shareable “fail moments”** that enhance virality and replay value. |
+| **4. Character Meta-Progression** | Tips earned unlock *permanent character upgrades* (speed, charisma, endurance), replacing typical kitchen equipment upgrades. | Strengthens **Progression & Customization** — players can express different personalities and play styles, boosting long-term retention. |
+
+---
+
+### ✨ Summary
+**Dishaster** positions itself as the **ultimate single-player social chaos simulator** — blending humor, stealth, and improvisation to transform a mundane catering job into a **high-stakes, hilarious survival challenge.**
+
+
+
+
+
+
+
