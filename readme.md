@@ -28,7 +28,7 @@ Move with arrows, go to the food zone (right side of the kitchen) to open the fo
 
 
 ### UML
-
+```plaintext
 Assets
 ├── Prefabs
 │   └── OrderCard.prefab
