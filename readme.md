@@ -40,7 +40,7 @@ Assets
 │   ├── BossAndNPC
 │   │   ├── BossVision.cs
 │   │   ├── BossPatrol.cs
-|   |   ├── DanceNPC.cs
+│   │   ├── DanceNPC.cs
 │   │   └── ConeFollower.cs
 │   │
 │   ├── Gameplay
@@ -63,16 +63,16 @@ Assets
 │   │   └── PlayerTray.cs
 │   │
 │   ├── UI
-│   |   ├── DrinkMenuUI.cs
-│   |   ├── EndScreenUI.cs
-│   |   ├── FoodMenuUI.cs
-│   |   ├── OrderCardUI.cs
-│   |   └── TrayHUD.cs
-│   |
-│   ├── Utils
-│   │   ├── OrderUtils.cs
-│   │   └── TimeUtils.cs
+│   │   ├── DrinkMenuUI.cs
+│   │   ├── EndScreenUI.cs
+│   │   ├── FoodMenuUI.cs
+│   │   ├── OrderCardUI.cs
+│   │   └── TrayHUD.cs
 │   │
+│   └── Utils
+│       ├── OrderUtils.cs
+│       └── TimeUtils.cs
+│
 ├── ProjectSettings
 └── Packages
 .....
